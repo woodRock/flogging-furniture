@@ -27,7 +27,7 @@ export default function About() {
                 Renewed Roots began in 2025 when our founder, Jo Rongen, discovered an abandoned barn door while hiking in rural Vermont. Rather than seeing it as waste, she envisioned a dining table that would tell stories of the past while creating new memories for families.
               </p>
               <p>
-                What started as a passion project in Emma's garage has grown into a dedicated workshop of craftspeople who share a vision: to rescue discarded materials and transform them into beautiful, functional pieces that bring character and sustainability into modern homes.
+                What started as a passion project in Jo's garage has grown into a dedicated workshop of craftspeople who share a vision: to rescue discarded materials and transform them into beautiful, functional pieces that bring character and sustainability into modern homes.
               </p>
               <p>
                 Today, our team of seven artisans works from our studio in Burlington, where we source materials from old barns, factories, and buildings scheduled for demolition throughout New England. Each maker brings unique skills—from woodworking to metalsmithing to upholstery—allowing us to reimagine and repurpose nearly any material.

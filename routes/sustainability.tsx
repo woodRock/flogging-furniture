@@ -52,7 +52,7 @@ export default function Sustainability() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
                 </svg>
               </div>
-              <div class="text-4xl font-bold text-gray-900">12+</div>
+              <div class="text-4xl font-bold text-gray-900">4+</div>
               <p class="mt-2 text-gray-600">Local artisans and craftspeople employed</p>
             </div>
             
@@ -139,7 +139,7 @@ export default function Sustainability() {
               </div>
             </div>
             <div class="mt-10 lg:mt-0">
-              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F55e9c004e4b0617f0b1f569e%2F1441643237219-56TG7ZATZTE637RXO1JH%2Fke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYlQ-m0oNUh_9buvyC-f1CSdhG_dNlqULB2ZTz-ses64A-QPhXXvNcU0N8wN7BGx0g%2F14-Mackey-Blanket%2BChest%2Bfinal%2B2.JPG&f=1&nofb=1&ipt=323a12116c5b237dbc8748216bd6f773011d651bbd66e3e6d3880ffc263b28ce&ipo=images" alt="Sustainable metal and hardware" class="rounded-lg shadow-md" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpublicdomainpictures.net%2Fpictures%2F30000%2Fvelka%2Fmetallstangen.jpg&f=1&nofb=1&ipt=8fbe835241bfe3efbc172edef734b09767fd6c82ed17b91be86066550c969140&ipo=images" alt="Sustainable metal and hardware" class="rounded-lg shadow-md" />
             </div>
           </div>
           
@@ -163,7 +163,7 @@ export default function Sustainability() {
               </div>
             </div>
             <div class="mt-10 lg:mt-0">
-              <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeimageslive.co.uk%2Ffiles%2Fimages009%2Fplane_tool.jpg&f=1&nofb=1&ipt=802a95510e7e1e30ab70299c19509c36b0389630fda8adc80ce3d43f7df0f5e0&ipo=images" alt="Eco-friendly finishes" class="rounded-lg shadow-md" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F3885%2F14329312300_ea81280954.jpg&f=1&nofb=1&ipt=c20dc250ecb4040b9cf21c6dc555be8ae32ddf7fcc032cec2071494aec0d2d27&ipo=images" alt="Eco-friendly finishes" class="rounded-lg shadow-md" />
             </div>
           </div>
         </div>
@@ -221,7 +221,7 @@ export default function Sustainability() {
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div class="bg-white p-6 rounded-lg shadow-sm text-center">
             <div class="h-24 flex items-center justify-center mb-4">
-              <img src="/api/placeholder/150/150" alt="FSC Certification" class="h-16" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_njj92Psgl_w%2FTDyUVigeWxI%2FAAAAAAAAAQI%2FV1r1qVBzWmo%2Fs1600%2Ffsc_logo.jpg&f=1&nofb=1&ipt=2426abc7af17e4f73b50664dc2a72375bbb1766cd632340e8f85e1d79defbb28&ipo=images" alt="FSC Certification" class="h-16" />
             </div>
             <h3 class="text-lg font-medium text-gray-900">FSC Certified</h3>
             <p class="mt-2 text-sm text-gray-600">
@@ -231,7 +231,7 @@ export default function Sustainability() {
           
           <div class="bg-white p-6 rounded-lg shadow-sm text-center">
             <div class="h-24 flex items-center justify-center mb-4">
-              <img src="/api/placeholder/150/150" alt="1% For The Planet" class="h-16" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwholechampion.org%2Fwp-content%2Fuploads%2F1ftp_Primary_Horizontal_Navy-800x335.png&f=1&nofb=1&ipt=2024b07a2e6dba4def4d647fce3423dc8f9c3921658eb2ed0876e61571a58b79&ipo=images" alt="1% For The Planet" class="h-16" />
             </div>
             <h3 class="text-lg font-medium text-gray-900">1% For The Planet</h3>
             <p class="mt-2 text-sm text-gray-600">
@@ -241,9 +241,9 @@ export default function Sustainability() {
           
           <div class="bg-white p-6 rounded-lg shadow-sm text-center">
             <div class="h-24 flex items-center justify-center mb-4">
-              <img src="/api/placeholder/150/150" alt="Green America Certified" class="h-16" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2014%2F12%2F04%2F20%2F27%2Fkea-557097_960_720.jpg&f=1&nofb=1&ipt=768f7ba1c7f879f3140ec8960aac77eb3c667f0b793a28a16d3b7168a7def667&ipo=images" alt="Green New Zealand Certified" class="h-16" />
             </div>
-            <h3 class="text-lg font-medium text-gray-900">Green America</h3>
+            <h3 class="text-lg font-medium text-gray-900">Green New Zealand</h3>
             <p class="mt-2 text-sm text-gray-600">
               Certified Business
             </p>
@@ -251,11 +251,11 @@ export default function Sustainability() {
           
           <div class="bg-white p-6 rounded-lg shadow-sm text-center">
             <div class="h-24 flex items-center justify-center mb-4">
-              <img src="/api/placeholder/150/150" alt="Vermont Businesses for Social Responsibility" class="h-16" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.eoi.es%2Fblogs%2Fimsd%2Ffiles%2F2017%2F03%2FPPP-300x273.png&f=1&nofb=1&ipt=6241b7eb62b30ed48cb19d1f94fc81eb612c94bc79e25a6d4a30b78a161b7533&ipo=images" alt="Wellington Businesses for Social Responsibility" class="h-16" />
             </div>
             <h3 class="text-lg font-medium text-gray-900">VBSR Member</h3>
             <p class="mt-2 text-sm text-gray-600">
-              Vermont Businesses for Social Responsibility
+              Wellington Businesses for Social Responsibility
             </p>
           </div>
         </div>

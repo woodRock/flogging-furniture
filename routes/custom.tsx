@@ -67,7 +67,7 @@ export default function CustomOrders() {
                   </div>
                   
                   <div class="mt-4 md:mt-0 md:w-1/2 md:pl-8">
-                    <img src="/api/placeholder/400/250" alt="Initial consultation" class="rounded-lg shadow-md" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-rI8TTCEZXAI%2FTjlD9uoCidI%2FAAAAAAAAAxc%2FEzZAZyXVzxg%2Fs640%2FHOMEMADE%2BCUSHIONS-%2BDIY%2BPATIO%2BFURNITURE.jpg&f=1&nofb=1&ipt=ce8032ddc8aa164811e52eb7e04ec6aa874d02c91f3f6f54d6bce65f52b46368&ipo=images" alt="Initial consultation" class="rounded-lg shadow-md" />
                   </div>
                 </div>
               </div>
@@ -87,7 +87,7 @@ export default function CustomOrders() {
                   </div>
                   
                   <div class="mt-4 md:mt-0 md:w-1/2 md:pl-8 md:order-first">
-                    <img src="/api/placeholder/400/250" alt="Material selection" class="rounded-lg shadow-md" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.crushpixel.com%2Fbig-static12%2Fpreview4%2Fwall-stacked-wood-logs-background-1009541.jpg&f=1&nofb=1&ipt=af2ce9e44f44340cc795938a556558330e1c951ae9f3d88f5efe251e2ceb558f&ipo=images" alt="Material selection" class="rounded-lg shadow-md" />
                   </div>
                 </div>
               </div>
@@ -107,7 +107,7 @@ export default function CustomOrders() {
                   </div>
                   
                   <div class="mt-4 md:mt-0 md:w-1/2 md:pl-8">
-                    <img src="/api/placeholder/400/250" alt="Design proposal" class="rounded-lg shadow-md" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hamichlol.org.il%2Fw%2Fupload%2Fmichlol%2Fthumb%2F3%2F3b%2FChair.jpg%2F1200px-Chair-black_and_white_drawing.jpg&f=1&nofb=1&ipt=2856db90a1998162624cb010db751ef9fe9122844b124a97ad7a4878ca86dc19&ipo=images" alt="Design proposal" class="rounded-lg shadow-md" />
                   </div>
                 </div>
               </div>
@@ -127,7 +127,7 @@ export default function CustomOrders() {
                   </div>
                   
                   <div class="mt-4 md:mt-0 md:w-1/2 md:pl-8 md:order-first">
-                    <img src="/api/placeholder/400/250" alt="Crafting process" class="rounded-lg shadow-md" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fwood-bench-texture-chair-seat-old-decay-furniture-lichen-outside-memorial-dilapidated-wooden-man-made-object-939742.jpg&f=1&nofb=1&ipt=338ed95ef43427b2c1f73975e6e2dd9f23f990c3916c4b9c6985cf8dc7333f2f&ipo=images" alt="Crafting process" class="rounded-lg shadow-md" />
                   </div>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export default function CustomOrders() {
                   </div>
                   
                   <div class="mt-4 md:mt-0 md:w-1/2 md:pl-8">
-                    <img src="/api/placeholder/400/250" alt="Delivery and installation" class="rounded-lg shadow-md" />
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fwood-bench-seat-wall-graffiti-wooden-bench-art-bank-out-wooden-wall-wall-boards-man-made-object-934121.jpg&f=1&nofb=1&ipt=3f04dd5b0b20b84513b05eb5dd233b091d1e2e14ec555dae41c754f6384dd65b&ipo=images" alt="Delivery and installation" class="rounded-lg shadow-md" />
                   </div>
                 </div>
               </div>
@@ -163,7 +163,7 @@ export default function CustomOrders() {
         <div class="grid md:grid-cols-3 gap-8">
           {/* Project 1 */}
           <div class="bg-white rounded-lg overflow-hidden shadow-md">
-            <img src="/api/placeholder/400/300" alt="Custom dining table" class="w-full h-64 object-cover" />
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mUN_lYhthqhnj-XLItOrZwHaHa%26pid%3DApi&f=1&ipt=735d3d093b0cf4110aad735d6d233ea70351a6b24e9c77941f818ca0de581210&ipo=images" alt="Custom dining table" class="w-full h-64 object-cover" />
             <div class="p-6">
               <h3 class="text-xl font-semibold text-gray-900">Reclaimed Timber Dining Table</h3>
               <p class="mt-2 text-amber-600">For the Chen Family</p>
@@ -175,7 +175,7 @@ export default function CustomOrders() {
           
           {/* Project 2 */}
           <div class="bg-white rounded-lg overflow-hidden shadow-md">
-            <img src="/api/placeholder/400/300" alt="Custom bookshelf" class="w-full h-64 object-cover" />
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2883049%2Fpexels-photo-2883049.jpeg%3Fcs%3Dsrgb%26dl%3Dphoto-of-a-wooden-bookshelf-2883049.jpg%26fm%3Djpg&f=1&nofb=1&ipt=779bd6a64b8276eb978cfcbf9f85761a49b4bdbd4eb074c2451af07c9e2a2b72&ipo=images" alt="Custom bookshelf" class="w-full h-64 object-cover" />
             <div class="p-6">
               <h3 class="text-xl font-semibold text-gray-900">Modular Library Wall</h3>
               <p class="mt-2 text-amber-600">For Burlington Public Library</p>
@@ -187,7 +187,7 @@ export default function CustomOrders() {
           
           {/* Project 3 */}
           <div class="bg-white rounded-lg overflow-hidden shadow-md">
-            <img src="/api/placeholder/400/300" alt="Custom credenza" class="w-full h-64 object-cover" />
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcollectionapi.metmuseum.org%2Fapi%2Fcollection%2Fv1%2Fiiif%2F471461%2F969431%2Fmain-image&f=1&nofb=1&ipt=db44f769895c9ac7d1b9883c40889b4d60339b63e04d7e7e0f6e2696acb2ee4a&ipo=images" alt="Custom credenza" class="w-full h-64 object-cover" />
             <div class="p-6">
               <h3 class="text-xl font-semibold text-gray-900">Media Credenza</h3>
               <p class="mt-2 text-amber-600">For the Williams Residence</p>
@@ -209,10 +209,10 @@ export default function CustomOrders() {
             <div class="bg-white p-8 rounded-lg shadow-md">
               <div class="flex items-center mb-6">
                 <div class="h-12 w-12 bg-gray-300 rounded-full overflow-hidden">
-                  <img src="/api/placeholder/100/100" alt="Client portrait" class="h-full w-full object-cover" />
+                  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTrumpPortrait.jpg%2F1200px-TrumpPortrait.jpg&f=1&nofb=1&ipt=9b28b45cd5a8d25f7d5bf39e4535c5c5f357fff64bdbf9241baaf94155726cc8&ipo=images" alt="Client portrait" class="h-full w-full object-cover" />
                 </div>
                 <div class="ml-4">
-                  <h3 class="text-lg font-semibold text-gray-900">Sarah Thomas</h3>
+                  <h3 class="text-lg font-semibold text-gray-900">Donald Trump</h3>
                   <p class="text-gray-600">Burlington, VT</p>
                 </div>
               </div>
@@ -225,10 +225,10 @@ export default function CustomOrders() {
             <div class="bg-white p-8 rounded-lg shadow-md">
               <div class="flex items-center mb-6">
                 <div class="h-12 w-12 bg-gray-300 rounded-full overflow-hidden">
-                  <img src="/api/placeholder/100/100" alt="Client portrait" class="h-full w-full object-cover" />
+                  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FTobey_Maguire_2014.jpg%2F330px-Tobey_Maguire_2014.jpg&f=1&nofb=1&ipt=3cdd9d342d5f058509366408ae490b0220852b2afe669ae3b497e21bdc56f162&ipo=images" alt="Client portrait" class="h-full w-full object-cover" />
                 </div>
                 <div class="ml-4">
-                  <h3 class="text-lg font-semibold text-gray-900">Marcus Johnson</h3>
+                  <h3 class="text-lg font-semibold text-gray-900">Toby Maguire</h3>
                   <p class="text-gray-600">Montpelier, VT</p>
                 </div>
               </div>
@@ -241,10 +241,10 @@ export default function CustomOrders() {
             <div class="bg-white p-8 rounded-lg shadow-md">
               <div class="flex items-center mb-6">
                 <div class="h-12 w-12 bg-gray-300 rounded-full overflow-hidden">
-                  <img src="/api/placeholder/100/100" alt="Client portrait" class="h-full w-full object-cover" />
+                  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faustria-forum.org%2Fattach%2FBiographien%2FSchwarzenegger%252C_Arnold%2FSchwarzenegger%252C_Arnold.jpg&f=1&nofb=1&ipt=715ab477a3a683d60103375afe73c652344d5105acfb885415da5c5c2cecd0a3&ipo=images" alt="Client portrait" class="h-full w-full object-cover" />
                 </div>
                 <div class="ml-4">
-                  <h3 class="text-lg font-semibold text-gray-900">Elena Rodriguez</h3>
+                  <h3 class="text-lg font-semibold text-gray-900">Arnold Schwarzenegger</h3>
                   <p class="text-gray-600">Boston, MA</p>
                 </div>
               </div>
@@ -257,10 +257,10 @@ export default function CustomOrders() {
             <div class="bg-white p-8 rounded-lg shadow-md">
               <div class="flex items-center mb-6">
                 <div class="h-12 w-12 bg-gray-300 rounded-full overflow-hidden">
-                  <img src="/api/placeholder/100/100" alt="Client portrait" class="h-full w-full object-cover" />
+                  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.staticflickr.com%2F7%2F6036%2F6330905402_f703f86132_b.jpg&f=1&nofb=1&ipt=441887ce823818e5a87dd738af0d44f70f52337c754eded219dcf3dd024af949&ipo=images" alt="Client portrait" class="h-full w-full object-cover" />
                 </div>
                 <div class="ml-4">
-                  <h3 class="text-lg font-semibold text-gray-900">David & Kimberly Chen</h3>
+                  <h3 class="text-lg font-semibold text-gray-900">Dolly Parton</h3>
                   <p class="text-gray-600">Portland, ME</p>
                 </div>
               </div>
