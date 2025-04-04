@@ -24,7 +24,7 @@ export default function About() {
             <h2 class="text-3xl font-bold text-gray-900">Our Story</h2>
             <div class="mt-6 text-gray-600 space-y-6">
               <p>
-                Renewed Roots began in 2018 when our founder, Emma Thompson, discovered an abandoned barn door while hiking in rural Vermont. Rather than seeing it as waste, she envisioned a dining table that would tell stories of the past while creating new memories for families.
+                Renewed Roots began in 2025 when our founder, Jo Rongen, discovered an abandoned barn door while hiking in rural Vermont. Rather than seeing it as waste, she envisioned a dining table that would tell stories of the past while creating new memories for families.
               </p>
               <p>
                 What started as a passion project in Emma's garage has grown into a dedicated workshop of craftspeople who share a vision: to rescue discarded materials and transform them into beautiful, functional pieces that bring character and sustainability into modern homes.
@@ -147,7 +147,7 @@ export default function About() {
           
           <div class="grid md:grid-cols-3 gap-8">
             <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-              <img src="/api/placeholder/400/300" alt="Emma Thompson" class="w-full h-64 object-cover" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F34%2F220234-050-000D4B0E%2FCate-Blanchett-2018.jpg&f=1&ipt=a914e224b382c27aaf5590f22593d001509ca2ea65a67a5cfb6d0e63e0885094" alt="Jo Rongen" class="w-full h-64 object-cover" />
               <div class="p-6">
                 <h3 class="text-xl font-semibold text-gray-900">Jo Rongen</h3>
                 <p class="text-amber-600 mb-4">Founder & Lead Designer</p>
@@ -158,7 +158,7 @@ export default function About() {
             </div>
             
             <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-              <img src="/api/placeholder/400/300" alt="Miguel Rodriguez" class="w-full h-64 object-cover" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fproud-fisherman-holding-fish-river-standing-fishing-rod-44219679.jpg&f=1&nofb=1&ipt=46611ba1ee91252acc337bc91e5b8e2f8e172699acd061de2edfd228e0f3784a&ipo=images" alt="David Wood" class="w-full h-64 object-cover" />
               <div class="p-6">
                 <h3 class="text-xl font-semibold text-gray-900">David Wood</h3>
                 <p class="text-amber-600 mb-4">Treasurer</p>
@@ -169,7 +169,7 @@ export default function About() {
             </div>
             
             <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-              <img src="/api/placeholder/400/300" alt="Aisha Johnson" class="w-full h-64 object-cover" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F49%2FElon_Musk_2015.jpg%2F500px-Elon_Musk_2015.jpg&f=1&nofb=1&ipt=fdca9139c02f24f42dc681132cc6b0fc82809b112dbe88bd208fd2f28316a88d&ipo=images" alt="Jesse Wood" class="w-full h-64 object-cover" />
               <div class="p-6">
                 <h3 class="text-xl font-semibold text-gray-900">Jesse Wood</h3>
                 <p class="text-amber-600 mb-4">IT Department</p>
@@ -180,7 +180,7 @@ export default function About() {
             </div>
 
             <div class="bg-white rounded-lg overflow-hidden shadow-sm">
-              <img src="/api/placeholder/400/300" alt="Aisha Johnson" class="w-full h-64 object-cover" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1f%2Fed%2F0f%2F1fed0fae18ba2e175093e540f50fdf82.jpg&f=1&nofb=1&ipt=2f0a5dc834ee55b9641a7a8bf8253d0037a73985ecf7f1f9f0c75cd15785713d&ipo=images" alt="Freya Wood" class="w-full h-64 object-cover" />
               <div class="p-6">
                 <h3 class="text-xl font-semibold text-gray-900">Freya Wood</h3>
                 <p class="text-amber-600 mb-4">Emotional Support</p>
@@ -236,7 +236,7 @@ export default function About() {
               </div>
             </div>
             <div class="relative h-64 lg:h-auto">
-              <img src="/api/placeholder/600/500" alt="Our workshop" class="absolute inset-0 w-full h-full object-cover" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.staticflickr.com%2F9%2F8010%2F7706591196_418994540f_b.jpg&f=1&nofb=1&ipt=ef41a49c5870c7b463fb192d67416f960f75377491464337d2576e945836a1dd&ipo=images" alt="Our workshop" class="absolute inset-0 w-full h-full object-cover" />
             </div>
           </div>
         </div>
